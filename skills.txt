@@ -1,0 +1,26 @@
+What i learn at this_course:
+        1.Theory of software testing("testing","bug-reports","documentation","types of testing","methods","SDLC","STLC", and_etc),
+        2.What is a client server arhitechture
+        3.Server request methods
+        4.Server responses
+        5.Structure request and response
+        6.What is a Json,XML and structure them
+        7.Testing API
+        8.logs and reading logs
+        9.Postman,Fidler
+        10.VPN:how does it work and other
+        11.Dev Tools
+        12.Mobile testing
+        13.Gidelines iOS and Android
+        14.Building applications on Xcode
+        15.Building applications on Andoroid Studio
+        16.Sniffing on Charles
+        17.Proxy on Android and Iphone
+        18.Terminal and Linux Ubuntu 
+        19.Simple bash scripting , "Automatization of rouitne tasks
+        20.Access to remote servers
+        21.SQL:Create , Delete , Drop , Insert into , Select , From , Where ,
+        22.Git
+        23.Jmeter
+        24.Scrum
+        25.Phyton : creating your own client-server application

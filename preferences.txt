@@ -1,0 +1,5 @@
+1.favorite movie" : Interstellar
+2.favorite series" : One-piece, "Dragon ball
+3.favorite food" : burgers
+4.favorite season" : summer
+5.i'd like to visit country" : USA
